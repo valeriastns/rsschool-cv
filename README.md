@@ -1,1 +1,1 @@
-[](https://github.com/valeriastns/rsschool-cv/cv)
+[https://github.com/valeriastns/rsschool-cv/cv](https://github.com/valeriastns/rsschool-cv/cv)
