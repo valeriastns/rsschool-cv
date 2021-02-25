@@ -57,3 +57,32 @@ window.addEventListener('DOMContentLoaded', function () {
     });
 });
 ```
+
+### **Experience**
+
+Course projects:
+<https://github.com/valeriastns>
+
+Freelance projects(based on cms wordpress):
+
+* <https://anothersweets.com.ua/>
+  (<https://github.com/valeriastns/another_cake>);
+
+* <http://chrisnesterova.com/>
+  (<https://github.com/valeriastns/christinanesterova-portfolio>);
+
+### **Education**
+
+* learn.javascript.ru
+
+* codewars,ebabit
+
+[Web-developer course](https://www.udemy.com/certificate/UC-6793e1d0-69ff-4940-8c68-ae342d48892a/)
+
+[CMS Wordpress course](https://www.udemy.com/certificate/UC-c093f1bd-58f0-4ef9-a2f1-1ace40c21525/)
+
+[JavaScript basics course](https://www.udemy.com/certificate/UC-913507af-846e-4646-a07f-518bdb7d658b/)
+
+### **English level**
+
+I estimate my english level as **intermidiate**/**upper-intermidiate**. Currently I'm living in Amsterdam so I always have practice around. Furthermore I mostly watch tv-shows or youtube channels in English.
