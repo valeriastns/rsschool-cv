@@ -7,7 +7,7 @@
 h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
-    text-transform:capitalize;
+    text-transform: capitalize;
     color: rgb(0, 0, 0);
 }
 
@@ -72,7 +72,7 @@ ul li::before {
     justify-content: center;
     height: 100%;
     width: 700px;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
 .container {
@@ -133,7 +133,7 @@ footer {
     display: flex;
     justify-content: center;
     align-self: center;
-    width:-webkit-fill-available;
+    width: -webkit-fill-available;
     height: 50px;
     background-color: rgb(241, 241, 172);
 }
