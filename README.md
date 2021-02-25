@@ -1,1 +1,1 @@
-[https://valeriastns.github.io/rsschool-cv/cv](https://valeriastns.github.io/rsschool-cv/cv)
+[https://valeriastns.github.io/rsschool-cv/](https://valeriastns.github.io/rsschool-cv/)
